@@ -1,14 +1,15 @@
-this librarys are made based on a this dimensions of raspberry file
-http://www.raspiworld.com/images/other/drawings/Raspberry-Pi-1-2-3-Model-B.pdf
+# KiCad Raspberry_Pi_2_or_3
 
-If you need help, comment and I'll answer as quickly as possible
+This library is compatible with Pi 4.
 
-https://i.imgur.com/jruPSif.png
+![GPIO Overview](img/gpio-overview.jpg)
 
-![alt text](https://i.imgur.com/jruPSif.png)
+![Symbol Preview](img/lib-symbol.png)
 
-https://i.imgur.com/ugdHz6m.png
+![Footprint Preview](img/lib-footprint.png)
 
-![alt text](https://i.imgur.com/ugdHz6m.png)
+## About
 
-based on the library of https://github.com/Tinkerforge but this is more useful for me
+The library dimensions are taken from [Raspberry-Pi-1-2-3-Model-B.pdf](http://www.raspiworld.com/images/other/drawings/Raspberry-Pi-1-2-3-Model-B.pdf).
+
+Based on the library of [Tinkerforge](https://github.com/Tinkerforge) with fixes from [Luca](https://github.com/sosie-js) as outlined [here](https://github.com/lucahttp/Raspberry-Pi-3-library-for-kicad/issues/1)
